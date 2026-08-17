@@ -34,12 +34,26 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=0b0f17&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=0b0f17&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=sunshinelife83&show_icons=true&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=0b0f17&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunshinelife83&layout=compact&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=0b0f17&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0B0F17&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=false" alt="Streak Dashboard" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunshinelife83&theme=dark&background=0B0F17&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=false" alt="Streak Dashboard" />
+
+</div>
+
+<br />
+
+---
+
+### Contact
+
+<div align="center">
+
+<a href="mailto:mounib.bouchareb16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mounib.bouchareb16%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Contact Email" />
+</a>
 
 </div>
 
