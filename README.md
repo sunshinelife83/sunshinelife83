@@ -23,7 +23,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,md&theme=dark" alt="Tooling Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,md&theme=dark" alt="Tooling Stack" />
 </a>
 
 </div>
